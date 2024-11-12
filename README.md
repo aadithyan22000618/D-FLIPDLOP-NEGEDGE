@@ -1,5 +1,6 @@
-# D-FLIPDLOP-NEGEDGE
-
+[# D-FLIPDLOP-NEGEDGE
+## NAME: AADITHYAN R
+## REG NO: 212222230001
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
@@ -42,3 +43,4 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 
 **RESULTS**
+](https://github.com/aadithyan22000618/JKFLIPFLOP-USING-IF-ELSE/blob/main/README.md)
